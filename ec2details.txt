@@ -1,0 +1,5 @@
+region = US East (N. Virginia)us-east-1
+Amazon Machine Image = ami-02354e95b39ca8dec
+instance type = t2.micro
+VPC = vpc-9f3fd6e2
+Secruity groups = SSH , HTTP . HTTPS
